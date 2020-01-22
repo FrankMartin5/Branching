@@ -3,6 +3,7 @@
  Cheat sheet for Branching
 
 ### Basic Git Commands
+
 * `git init` - create local repo.
 * `git add` - Add modified files to index (staging).
 * `git commit -m "message"` - commit to local repo.
@@ -12,6 +13,7 @@
 * `git remote add origin URL` - connect local repository to remote URL
 
 ### Basic Branching
+
 * `git branch` - Show branches, current branch
 * `git branch branchName` - create branch `branchName`
 * `git checkout branchName` - check out the branch
